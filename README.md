@@ -1,1 +1,1 @@
-# Between-Two-Sets-ALGO
+# Between-Two-Sets-ALGO.This C# program finds how many integers are multiples of all elements in array a and factors of all elements in array b. It calculates the LCM of a and the GCD of b, then counts how many multiples of the LCM evenly divide the GCD.
